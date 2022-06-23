@@ -22,7 +22,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
    {
-       "roster id 1": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+       "1": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
        "Steve": "Your Name",
        "Allentown": "Brooklyn", // (optional)
        "Commish of this wonderful league set up in 2013 ": "Lorem ipsum...",
@@ -35,7 +35,7 @@ export const managers = [
          image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
        },
        "Win a GODDAMN PLAYOFF GAME": "Your fantasy team's philosophy",
-       "tradingScale": 10, // 1 - 10
+       "10": 10, // 1 - 10
        "Text": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      },
      {
