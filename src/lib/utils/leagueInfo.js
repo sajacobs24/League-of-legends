@@ -22,7 +22,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
    {
-      "roster": 1,   ID of the roster that the manager manages (look at the order of the power
+      "1": 1,   ID of the roster that the manager manages (look at the order of the power
       "name": "Steve",
       "location": "Allentown",  (optional)
       "bio": "League creator and commissioner. Started this league back in 2013 and has never won a playoff game",
